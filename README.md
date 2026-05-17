@@ -1,4 +1,9 @@
 # HR Analytics Dashboard
+
+## Dashboard Preview
+
+![HR Analytics Dashboard](./HR_Dashboard.png)
+
 **Tools Used:** Power BI | SQL | Python (Pandas, Matplotlib) | Excel
 
 ---
